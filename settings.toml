@@ -1,0 +1,6 @@
+CIRCUITPY_WIFI_SSID = "your ssid"
+CIRCUITPY_WIFI_PASSWORD = "your password"
+mode = "client"
+mdns_host = "mdns-hostname"
+web_root = "/static"
+key_file = "keys.json"
